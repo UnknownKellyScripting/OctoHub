@@ -9,3 +9,5 @@ Just execute the script on your executor! Works mobile and PC.
 --[[ Work in progress
 ]]
 ```
+## ❗ Disclaimer
+This respository is licensed, dont skid or get the all sources code. You will may have consequences.
